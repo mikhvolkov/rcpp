@@ -1,0 +1,6 @@
+adlist.c - double list implementation ( replace with std::list)
+
+---------------------------
+
+ae.c - event library with backends ae_[epoll,evport, kqueue, select ] - choose C++ event library implementation
+Kqueue: A generic and scalable event notification facility
